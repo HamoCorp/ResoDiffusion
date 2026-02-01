@@ -21,7 +21,7 @@ I still have to add a lot of things befor i release it, but slightly lazy so giv
 - Setting menu button doesent do anything
 - see if linux works
 - amd suport
-- make it support exe files so no need for pip installs
+- make it support exe files so no need for pip installs or having Python installed
 - see if i can make it use multiple inputs for other integrations
 - make a template for creating custom integrations
 - ask chatgpt to make me more ai integrations: more advanced image creation, mabey audio, 3d models as well.
