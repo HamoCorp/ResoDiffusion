@@ -2,8 +2,8 @@
 An ai generator mod for Resonite runing locally with support on your own gpu for image2image. UseStable Diffusion and other ai letting and create your own Python integrations and add any library.
 
 
-### *Unreleased mod* still work in progress.
-I still have to add amd suport and change and fix a lot of things befor i release it but slightly lazy so give me a month or 3
+### *Unreleased mod* still work in progress. But early release for people who want to try it.
+I still have to add a lot of things befor i release it, but slightly lazy so give me a month or 3
 
 
 # installation
