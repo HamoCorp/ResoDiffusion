@@ -1,5 +1,5 @@
 # ResoDiffusion
-An ai generator mod for Resonite runing locally with support on your own gpu for image2image. UseStable Diffusion and other ai letting and create your own Python integrations and add any library.
+Reso Diffusion is a way to create ingame ui to interface with custom python files. with its main purpuse being for ai generating in Resonite, running locally on your own gpu with suport for image2image, use Stable Diffusion and other ai or create your own Python integrations.
 
 
 ### *Unreleased mod* still work in progress. But early release for people who want to try it.
