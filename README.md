@@ -9,7 +9,7 @@ I still have to add a lot of things befor i release it, but slightly lazy so giv
 # installation
 - Resonite mod loader...
 - Go to Resonite Folder, add a new folder called `ResoDiffusionIntegrations`
-- Install integrations and put them inside ResoDiffusionIntegrations, put folders named after each integration containing the Python file or exe
+- Install one or multiple of the integrations listed below and put them inside ResoDiffusionIntegrations, create a folder containing the Python file or exe. The folder must be named after the integration, as the instructions say
 - get ai generator UI from my public folder `resrec:///U-HamoCorp/R-e5c234a3-c4d4-4645-af54-7a80d388605c`
 
 # integrations list
