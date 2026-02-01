@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Library</OutputType>
+		<TargetFramework>net10.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+	</PropertyGroup>
+
+	<!-- Resonite / Harmony references -->
+	<ItemGroup>
+		<Reference Include="0Harmony">
+			<HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Resonite\rml_libs\0Harmony.dll</HintPath>
+		</Reference>
+		<Reference Include="Elements.Assets">
+		  <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Resonite\Elements.Assets.dll</HintPath>
+		</Reference>
+		<Reference Include="Elements.Core">
+			<HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Resonite\Tools\ResoniteProtocolHandler\Elements.Core.dll</HintPath>
+		</Reference>
+		<Reference Include="FrooxEngine">
+			<HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Resonite\FrooxEngine.dll</HintPath>
+		</Reference>
+		<Reference Include="ResoniteModLoader">
+			<HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Resonite\Libraries\ResoniteModLoader.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+</Project>
